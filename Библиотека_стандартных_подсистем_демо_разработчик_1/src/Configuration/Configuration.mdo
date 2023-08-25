@@ -2466,6 +2466,7 @@
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник3</catalogs>
   <catalogs>Catalog.Справочник4</catalogs>
+  <catalogs>Catalog.Справочник5</catalogs>
   <documents>Document._ДемоЗаказПокупателя</documents>
   <documents>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</documents>
   <documents>Document._ДемоНачислениеЗарплаты</documents>
