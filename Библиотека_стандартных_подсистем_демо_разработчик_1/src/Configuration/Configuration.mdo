@@ -2464,6 +2464,7 @@
   <catalogs>Catalog.ЯзыкиПечатныхФорм</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
+  <catalogs>Catalog.Справочник3</catalogs>
   <documents>Document._ДемоЗаказПокупателя</documents>
   <documents>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</documents>
   <documents>Document._ДемоНачислениеЗарплаты</documents>
